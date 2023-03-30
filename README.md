@@ -7,7 +7,7 @@ In this repository we provide the dataset collected and used in the paper: "**Ex
 
 We also provide enrichment datasets and scripts for dataset enrichment.
 
-[Dataset available here](https://github.com/internet-centralization/email-paper)
+[Dataset available here:](https://github.com/internet-centralization/email-paper/)
 
 ## Dataset files
 
