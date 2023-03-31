@@ -16,5 +16,3 @@ The dataset files are available in Parquet format. The .parquet file is a column
 If you have a dataset in .parquet format, you can work with it in several programming languages, including Python, R and Java. To work with .parquet files in Python, you can use the PySpark library, which is a Python frontend to Apache Spark.
 
 To start working with PySpark, you need to install both Spark and PySpark on your machine. The easiest way to do this is to download a pre-compiled version of Spark from the official Apache Spark website and unzip it into a folder on your machine. You can find the latest version of Spark at https://spark.apache.org/downloads.html.
-
-Nós fornecemos os scripts PySpark para enriquecimento do dataset.
